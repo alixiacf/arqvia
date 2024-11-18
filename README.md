@@ -1,5 +1,6 @@
 # ArQVIA
 **VSLAM Positioning Through Synthetic Data and Deep Learning: Applications in Virtual Archaeology**
+[paper code] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633621
 
 ArQVIA es una aplicación que utiliza posicionamiento VSLAM mediante datos sintéticos y aprendizaje profundo para resolver problemas de arqueología virtual.
 
