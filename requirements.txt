@@ -1,0 +1,10 @@
+Flask==2.3.2
+Flask-Cors==3.0.10
+gunicorn==20.1.0
+pandas==2.0.1
+Pillow==9.5.0
+annoy==1.17.2 
+numpy==1.23.5
+azure.storage.blob==12.16.0
+tensorflow-cpu
+tqdm==4.65.0
