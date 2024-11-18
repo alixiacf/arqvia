@@ -24,3 +24,5 @@ pip install -r requirements.txt
 
 
 python app.py
+
+Está configurado para usar azure BlobServiceClient, necesitarías una clave del servicio para implementar tu propia solucion.
